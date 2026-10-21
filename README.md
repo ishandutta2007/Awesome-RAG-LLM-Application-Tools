@@ -76,114 +76,114 @@ The following commercial SaaS solutions provide fully managed workspaces, pre-co
 
 Curated open-source projects for self-hosting, developer scaffolding, and extensible RAG pipelines.
 
-> **Sorted in descending order by GitHub Stars ⭐ (Real-time live badges link directly to each repo's stargazers):**
+> **Sorted in descending order by GitHub_Stars ⭐ (Real-time live badges link directly to each repo's stargazers):**
 
-### 1. 🥇 [Dify](https://github.com/langgenius/dify) [![GitHub stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers)
+### 1. 🥇 [Dify](https://github.com/langgenius/dify) [![GitHub_Stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers)
 - **Primary Language**: TypeScript / Python | **License**: Modified Apache 2.0
 - **Overview**: The most popular open-source LLM application development platform in the world. Combines an intuitive visual workflow builder, multi-agent frameworks, flexible RAG data pipelines, and prompt engineering studios into a single Docker-deployable stack.
 - **Key Features**: v1.0 plugin architecture with model/tool extensibility, Agent Nodes for intelligent routing, knowledge base document parsing, and single-click REST API deployment.
 
-### 2. 🥈 [Langflow](https://github.com/langflow-ai/langflow) [![GitHub stars](https://img.shields.io/github/stars/langflow-ai/langflow?style=social&color=white)](https://github.com/langflow-ai/langflow/stargazers)
+### 2. 🥈 [Langflow](https://github.com/langflow-ai/langflow) [![GitHub_Stars](https://img.shields.io/github/stars/langflow-ai/langflow?style=social&color=white)](https://github.com/langflow-ai/langflow/stargazers)
 - **Primary Language**: Python / React | **License**: MIT
 - **Overview**: Dynamic visual IDE and runtime for building multi-agent AI workflows and RAG systems. Delivers complete source code access so developers can customize any node directly in Python.
 - **Key Features**: Real-time component playground, native Model Context Protocol (MCP) server deployment (workflows become tools), desktop app for macOS/Windows, and deep integration with LangSmith and Langfuse.
 
-### 3. 🥉 [LangChain / LangGraph](https://github.com/langchain-ai/langchain) [![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social&color=white)](https://github.com/langchain-ai/langchain/stargazers)
+### 3. 🥉 [LangChain / LangGraph](https://github.com/langchain-ai/langchain) [![GitHub_Stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social&color=white)](https://github.com/langchain-ai/langchain/stargazers)
 - **Primary Language**: Python / TypeScript | **License**: MIT
 - **Overview**: The industry standard for composable AI programming. With **LangGraph**, it enables cyclical, stateful, multi-agent orchestration with persistent memory and human-in-the-loop validation.
 - **Key Features**: Massive ecosystem of 700+ integrations, deterministic execution graphs, time-travel debugging, and native production tracing via LangSmith.
 
-### 4. 📄 [RAGFlow](https://github.com/infiniflow/ragflow) [![GitHub stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=social&color=white)](https://github.com/infiniflow/ragflow/stargazers)
+### 4. 📄 [RAGFlow](https://github.com/infiniflow/ragflow) [![GitHub_Stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=social&color=white)](https://github.com/infiniflow/ragflow/stargazers)
 - **Primary Language**: Python | **License**: Apache 2.0
 - **Overview**: Open-source RAG engine based on deep document understanding. Extracts content from unstructured complex PDFs, slides, and scanned tables with vision-based parsing.
 - **Key Features**: Visual chunk preview with grounded citations, template-based chunking algorithms, hybrid vector/keyword retrieval, and multi-tenant self-hosting.
 
-### 5. 🤖 [AutoGen](https://github.com/microsoft/autogen) [![GitHub stars](https://img.shields.io/github/stars/microsoft/autogen?style=social&color=white)](https://github.com/microsoft/autogen/stargazers)
+### 5. 🤖 [AutoGen](https://github.com/microsoft/autogen) [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/autogen?style=social&color=white)](https://github.com/microsoft/autogen/stargazers)
 - **Primary Language**: Python | **License**: MIT
 - **Overview**: Microsoft's cutting-edge programming framework for agentic AI. Facilitates multi-agent conversation patterns, autonomous collaborative reasoning, and code execution environments.
 - **Key Features**: Event-driven asynchronous architecture (AutoGen 0.4+), multi-agent human-in-the-loop collaboration, extensible tooling, and Dockerized code sandboxing.
 
-### 6. 👥 [CrewAI](https://github.com/crewAIInc/crewAI) [![GitHub stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=social&color=white)](https://github.com/crewAIInc/crewAI/stargazers)
+### 6. 👥 [CrewAI](https://github.com/crewAIInc/crewAI) [![GitHub_Stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=social&color=white)](https://github.com/crewAIInc/crewAI/stargazers)
 - **Primary Language**: Python | **License**: MIT
 - **Overview**: Ultra-popular framework for orchestrating role-playing autonomous AI agents. Enables engineers to configure collaborative AI crews where agents assume distinct personas, delegate tasks, and share memory.
 - **Key Features**: Role-based agent delegation, sequential & hierarchical task processes, structured tool calling, and seamless compatibility with LangChain and LlamaIndex tools.
 
-### 7. 🧩 [Flowise](https://github.com/FlowiseAI/Flowise) [![GitHub stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social&color=white)](https://github.com/FlowiseAI/Flowise/stargazers)
+### 7. 🧩 [Flowise](https://github.com/FlowiseAI/Flowise) [![GitHub_Stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social&color=white)](https://github.com/FlowiseAI/Flowise/stargazers)
 - **Primary Language**: TypeScript | **License**: Apache 2.0
 - **Overview**: Open-source drag-and-drop UI for assembling customized LLM flows, conversational agents, and RAG pipelines on top of LangChain.
 - **Key Features**: Connect vector stores, document loaders, memory buffers, and LLMs like LEGO blocks; supports custom JavaScript/TypeScript code nodes, multi-agent systems, and production Docker deployment.
 
-### 8. 🦙 [LlamaIndex](https://github.com/run-llama/llama_index) [![GitHub stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social&color=white)](https://github.com/run-llama/llama_index/stargazers)
+### 8. 🦙 [LlamaIndex](https://github.com/run-llama/llama_index) [![GitHub_Stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social&color=white)](https://github.com/run-llama/llama_index/stargazers)
 - **Primary Language**: Python / TypeScript | **License**: MIT
 - **Overview**: The purpose-built data framework for indexing, parsing, and retrieving private enterprise data for LLM applications.
 - **Key Features**: 160+ data connectors (LlamaHub), advanced routing, hierarchical indexing, rerankers, hybrid search algorithms, and agentic query engines.
 
-### 9. 🧠 [Quivr](https://github.com/The-Vibe-Company/quivr) [![GitHub stars](https://img.shields.io/github/stars/The-Vibe-Company/quivr?style=social&color=white)](https://github.com/The-Vibe-Company/quivr/stargazers)
+### 9. 🧠 [Quivr](https://github.com/The-Vibe-Company/quivr) [![GitHub_Stars](https://img.shields.io/github/stars/The-Vibe-Company/quivr?style=social&color=white)](https://github.com/The-Vibe-Company/quivr/stargazers)
 - **Primary Language**: Python / TypeScript | **License**: Apache 2.0
 - **Overview**: Open-source "Second Brain" engine designed to ingest continuous unstructured streams of personal and enterprise information (PDFs, docs, audio, YouTube).
 - **Key Features**: Multi-modal data ingestion, generative chat over private knowledge vaults, pluggable open-source LLMs (Ollama/vLLM), and shared workspace spaces.
 
-### 10. 🎯 [DSPy](https://github.com/stanfordnlp/dspy) [![GitHub stars](https://img.shields.io/github/stars/stanfordnlp/dspy?style=social&color=white)](https://github.com/stanfordnlp/dspy/stargazers)
+### 10. 🎯 [DSPy](https://github.com/stanfordnlp/dspy) [![GitHub_Stars](https://img.shields.io/github/stars/stanfordnlp/dspy?style=social&color=white)](https://github.com/stanfordnlp/dspy/stargazers)
 - **Primary Language**: Python | **License**: MIT
 - **Overview**: Stanford's groundbreaking framework for *programming*—rather than prompting—foundation models. Replaces brittle prompt engineering with declarative modules and automated teleprompter optimizers.
 - **Key Features**: Algorithmic prompt compiler, automatic few-shot example generation, metric-driven optimization, and modular RAG architectures.
 
-### 11. 🔍 [Khoj](https://github.com/khoj-ai/khoj) [![GitHub stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=social&color=white)](https://github.com/khoj-ai/khoj/stargazers)
+### 11. 🔍 [Khoj](https://github.com/khoj-ai/khoj) [![GitHub_Stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=social&color=white)](https://github.com/khoj-ai/khoj/stargazers)
 - **Primary Language**: Python | **License**: AGPL-3.0
 - **Overview**: An open-source, self-hostable AI personal second brain. Indexes local files, markdown notes, PDFs, web bookmarks, and org-mode documents with instant semantic search and offline LLM inference.
 - **Key Features**: Desktop, mobile, and web apps; voice input support; integration with local models (Ollama) or frontier APIs; automated web research capabilities.
 
-### 12. 🕸️ [GraphRAG](https://github.com/microsoft/graphrag) [![GitHub stars](https://img.shields.io/github/stars/microsoft/graphrag?style=social&color=white)](https://github.com/microsoft/graphrag/stargazers)
+### 12. 🕸️ [GraphRAG](https://github.com/microsoft/graphrag) [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/graphrag?style=social&color=white)](https://github.com/microsoft/graphrag/stargazers)
 - **Primary Language**: Python | **License**: MIT
 - **Overview**: Microsoft's modular graph-based Retrieval-Augmented Generation pipeline. Extracts knowledge graphs and entity communities from raw documents to answer complex global questions that naive RAG fails to resolve.
 - **Key Features**: Hierarchical graph clustering (Leiden community detection), comprehensive global summarization, local entity search, and dataset generation.
 
-### 13. 🪢 [Langfuse](https://github.com/langfuse/langfuse) [![GitHub stars](https://img.shields.io/github/stars/langfuse/langfuse?style=social&color=white)](https://github.com/langfuse/langfuse/stargazers)
+### 13. 🪢 [Langfuse](https://github.com/langfuse/langfuse) [![GitHub_Stars](https://img.shields.io/github/stars/langfuse/langfuse?style=social&color=white)](https://github.com/langfuse/langfuse/stargazers)
 - **Primary Language**: TypeScript / Python | **License**: MIT
 - **Overview**: Open-source LLM engineering and observability platform. Delivers deep tracing, cost tracking, prompt versioning, and rigorous evaluation pipelines for production RAG and agent applications.
 - **Key Features**: Zero-overhead OpenTelemetry-compliant tracing, automated and human-in-the-loop scoring, latency/cost analytics, and seamless ClickHouse backend scaling.
 
-### 14. 💎 [Onyx](https://github.com/onyx-dot-app/onyx) *(formerly Danswer)* [![GitHub stars](https://img.shields.io/github/stars/onyx-dot-app/onyx?style=social&color=white)](https://github.com/onyx-dot-app/onyx/stargazers)
+### 14. 💎 [Onyx](https://github.com/onyx-dot-app/onyx) *(formerly Danswer)* [![GitHub_Stars](https://img.shields.io/github/stars/onyx-dot-app/onyx?style=social&color=white)](https://github.com/onyx-dot-app/onyx/stargazers)
 - **Primary Language**: Python / TypeScript | **License**: MIT
 - **Overview**: Open-source enterprise search and RAG platform with turnkey connectors to 40+ workplace data repositories (Slack, Google Drive, Notion, Confluence, Jira, GitHub).
 - **Key Features**: Granular document-level access permissions (RBAC), multi-LLM querying, custom assistant generation, and self-hosted Docker Compose & Helm chart deployment.
 
-### 15. 🌾 [Haystack](https://github.com/deepset-ai/haystack) [![GitHub stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social&color=white)](https://github.com/deepset-ai/haystack/stargazers)
+### 15. 🌾 [Haystack](https://github.com/deepset-ai/haystack) [![GitHub_Stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social&color=white)](https://github.com/deepset-ai/haystack/stargazers)
 - **Primary Language**: Python | **License**: Apache 2.0
 - **Overview**: Composable, enterprise-grade AI orchestration framework for building production RAG pipelines and context-aware LLM applications with explicit execution semantics.
 - **Key Features**: Directed acyclic graph (DAG) pipeline architecture, serializable configurations, Kubernetes readiness, and zero vendor lock-in across vector databases and model providers.
 
-### 16. 💾 [Letta](https://github.com/letta-ai/letta) *(formerly MemGPT)* [![GitHub stars](https://img.shields.io/github/stars/letta-ai/letta?style=social&color=white)](https://github.com/letta-ai/letta/stargazers)
+### 16. 💾 [Letta](https://github.com/letta-ai/letta) *(formerly MemGPT)* [![GitHub_Stars](https://img.shields.io/github/stars/letta-ai/letta?style=social&color=white)](https://github.com/letta-ai/letta/stargazers)
 - **Primary Language**: Python | **License**: Apache 2.0
 - **Overview**: Platform for stateful agents featuring advanced virtual memory management that bypasses finite context window limitations.
 - **Key Features**: Multi-tiered memory architecture (working memory, recall memory, archival storage), self-editing agent memory, persistent state management, and multi-user support.
 
-### 17. 📊 [Vanna](https://github.com/vanna-ai/vanna) [![GitHub stars](https://img.shields.io/github/stars/vanna-ai/vanna?style=social&color=white)](https://github.com/vanna-ai/vanna/stargazers)
+### 17. 📊 [Vanna](https://github.com/vanna-ai/vanna) [![GitHub_Stars](https://img.shields.io/github/stars/vanna-ai/vanna?style=social&color=white)](https://github.com/vanna-ai/vanna/stargazers)
 - **Primary Language**: Python | **License**: MIT
 - **Overview**: Open-source, RAG-based Text-to-SQL generation framework. Trains on database DDL, documentation, and existing SQL queries to generate high-accuracy SQL for non-technical users.
 - **Key Features**: Self-learning feedback loops, support for Snowflake, BigQuery, Postgres, MySQL, and SQLite; visual dashboard integration with Streamlit and Slack bots.
 
-### 18. ⚡ [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) [![GitHub stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social&color=white)](https://github.com/TransformerOptimus/SuperAGI/stargazers)
+### 18. ⚡ [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) [![GitHub_Stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social&color=white)](https://github.com/TransformerOptimus/SuperAGI/stargazers)
 - **Primary Language**: Python | **License**: MIT
 - **Overview**: Dev-first open-source autonomous AI agent framework designed for orchestrating, managing, and running goal-oriented agents in isolated sandboxes.
 - **Key Features**: Graphical agent management console, multiple vector database integrations, agent performance telemetry, and an expansive tool marketplace.
 
-### 19. 💬 [Botpress](https://github.com/botpress/botpress) [![GitHub stars](https://img.shields.io/github/stars/botpress/botpress?style=social&color=white)](https://github.com/botpress/botpress/stargazers)
+### 19. 💬 [Botpress](https://github.com/botpress/botpress) [![GitHub_Stars](https://img.shields.io/github/stars/botpress/botpress?style=social&color=white)](https://github.com/botpress/botpress/stargazers)
 - **Primary Language**: TypeScript | **License**: AGPL-3.0
 - **Overview**: Developer hub to build, deploy, and scale conversational AI agents and LLM chatbots across WhatsApp, Webchat, Slack, Teams, and Messenger.
 - **Key Features**: Visual conversation flow canvas, built-in natural language understanding (NLU), execution hooks, and external API connectors.
 
-### 20. 📖 [Verba](https://github.com/weaviate/Verba) [![GitHub stars](https://img.shields.io/github/stars/weaviate/Verba?style=social&color=white)](https://github.com/weaviate/Verba/stargazers)
+### 20. 📖 [Verba](https://github.com/weaviate/Verba) [![GitHub_Stars](https://img.shields.io/github/stars/weaviate/Verba?style=social&color=white)](https://github.com/weaviate/Verba/stargazers)
 - **Primary Language**: Python | **License**: BSD-3-Clause
 - **Overview**: The Golden RAG Triad application by Weaviate. Offers a modern, ready-to-run web application for querying proprietary documents out-of-the-box.
 - **Key Features**: Native hybrid search powered by Weaviate vector database, customizable chunking and vectorization pipelines, and modular LLM provider support.
 
-### 21. 🏗️ [Cognita](https://github.com/truefoundry/cognita) [![GitHub stars](https://img.shields.io/github/stars/truefoundry/cognita?style=social&color=white)](https://github.com/truefoundry/cognita/stargazers)
+### 21. 🏗️ [Cognita](https://github.com/truefoundry/cognita) [![GitHub_Stars](https://img.shields.io/github/stars/truefoundry/cognita?style=social&color=white)](https://github.com/truefoundry/cognita/stargazers)
 - **Primary Language**: Python | **License**: Apache 2.0
 - **Overview**: Modular, production-ready RAG framework by TrueFoundry with an API-first approach and a clean UI for enterprise deployments.
 - **Key Features**: Extensible parsers, incremental data indexing, support for LangChain and LlamaIndex components, and native Helm chart deployment.
 
-### 22. ⚡ [create-llama](https://github.com/run-llama/create-llama) [![GitHub stars](https://img.shields.io/github/stars/run-llama/create-llama?style=social&color=white)](https://github.com/run-llama/create-llama/stargazers)
+### 22. ⚡ [create-llama](https://github.com/run-llama/create-llama) [![GitHub_Stars](https://img.shields.io/github/stars/run-llama/create-llama?style=social&color=white)](https://github.com/run-llama/create-llama/stargazers)
 - **Primary Language**: TypeScript / Python | **License**: MIT
 - **Overview**: The fastest CLI command to scaffold a production-ready, full-stack RAG web application powered by LlamaIndex.
 - **Key Features**: Generate full Next.js or Python FastAPI backends in seconds with `npx create-llama@latest`; pre-configured shadcn/ui chat interface and drag-and-drop file ingestion.
@@ -213,7 +213,7 @@ Contributions are warmly welcomed! Help us keep this directory current, accurate
 2. 🌿 **Create** a descriptive topic branch: `git checkout -b add-tool-name`
 3. 📝 **Add or Update** entries following the existing format:
    - Include specific starting pricing and exact free tier limits for SaaS tools.
-   - For open-source projects, include the live stars social badge linking to `/stargazers`.
+   - For open-source projects, include the live GitHub_Stars social badge linking to `/stargazers`.
 4. 🧪 Ensure all Markdown links, badges, and citations are valid and accurate.
 5. 🚀 **Submit** a clean Pull Request with a brief explanation of your additions!
 
